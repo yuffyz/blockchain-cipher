@@ -3,7 +3,7 @@
 
 ## Research Topics
 
-* data authentification using blockchain
+* data authentication using blockchain
 * symmetric block ciphers
 
 
