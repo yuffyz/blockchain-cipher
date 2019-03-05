@@ -15,4 +15,6 @@
 * CS355: Topics in Cryptography [Course](https://crypto.stanford.edu/cs355/18sp/)
 * Codeacademy: Intro to Blockchain [Course](https://www.codecademy.com/learn/introduction-to-blockchain)
 * A Graduate Course in Applied Cryptography [Book](https://toc.cryptobook.us)
+* Mastering Bitcoin [book](https://github.com/bitcoinbook/bitcoinbook)
+* [Lisk](https://lisk.io/)
 
